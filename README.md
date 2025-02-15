@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Enes Özkan
 ==================================================================================================================================
 
-Backend Developer
+Mobile & Web Developer
 -----------------
 
-Highly motivated Backend Developer with expertise in Django framework, focused on building scalable, efficient, and high-performance web applications. Passionate about developing robust APIs, optimizing database queries, and creating seamless user experiences. Actively seeking opportunities to leverage my skills in Python, Django, SQL, and RESTful API development to solve complex technical challenges and contribute to innovative projects.
+Highly motivated **Mobile and Web Developer** with expertise in **React Native, Django, SQL, HTML, CSS, and JavaScript**, focused on building **scalable, high-performance, and user-friendly applications**. Passionate about **developing dynamic UIs with React Native and web technologies, designing seamless user experiences with Figma, and optimizing backend performance using Django and SQL**. Skilled in **RESTful API development, database optimization, and cross-platform application development**, aiming to contribute to innovative projects by solving complex technical challenges. Actively seeking opportunities to leverage my skills in **mobile and web development** to create impactful digital solutions.
 
 * 🌍  I'm based in Ankara, TUR
 * 🖥️  See my portfolio at [enozkn.com](http://enozkn.com)
