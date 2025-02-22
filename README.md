@@ -9,7 +9,7 @@ Highly motivated **Mobile and Web Developer** with expertise in **React Native, 
 * 🌍  I'm based in Ankara, TUR
 * 🖥️  See my portfolio at [enozkn.com](http://enozkn.com)
 * ✉️  You can contact me at [enes@enozkn.com](mailto:enes@enozkn.com)
-* 🧠  I'm learning Django, continuously enhancing skills in backend development, automation, and complex codeblocks.
+* 🧠  I'm currently work on my own App named Rezervly.
 
 ### Skills
 
