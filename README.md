@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Mobile & Web Developer
 -----------------
 
-Highly motivated **Mobile and Web Developer** with expertise in **React Native, Python, SQL, HTML, CSS, Figma, and JavaScript**, focused on building **scalable, high-performance, and user-friendly applications**. Passionate about **developing dynamic UIs with React Native and web technologies, designing seamless user experiences with Figma, and optimizing backend performance using Python and SQL**. Skilled in cross-platform application development**, aiming to contribute to innovative projects by solving complex technical challenges. Actively seeking opportunities to leverage my skills in **mobile and web development** to create impactful digital solutions.
+Highly motivated **Mobile and Web Developer** with expertise in **React Native, React, SQL, HTML, CSS, Figma, and JavaScript**, focused on building **scalable, high-performance, and user-friendly applications**. Passionate about **developing dynamic UIs with React Native and web technologies, designing seamless user experiences with Figma, and learning optimizing backend performance using Python and SQL**. Skilled in cross-platform application development**, aiming to contribute to innovative projects by solving complex technical challenges. Actively seeking opportunities to leverage my skills in **mobile and web development** to create impactful digital solutions.
 
 * 🌍  I'm based in Ankara, TUR
 * 🖥️  See my portfolio at [enozkn.com](http://enozkn.com)
 * ✉️  You can contact me at [enes@enozkn.com](mailto:enes@enozkn.com)
-* 🧠  I'm currently work on my own App named Rezervly.
+* 🧠  I'm currently work on my own App named Rezervly (You can check my Linkedin for details about app).
 
 ### Skills
 
