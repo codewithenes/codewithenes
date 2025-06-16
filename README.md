@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front-End Developer
 -----------------
 
-I'm a Front-End Developer focused on building user-friendly interfaces using modern web technologies. Clean code, functionality, and sustainability are among my top priorities. I aim to create value in the digital world through simplicity, consistency, and continuous growth. Actively seeking opportunities to leverage my skills in **Web development** to create impactful digital solutions.
+I'm a Frontend Developer focused on building user-friendly interfaces using modern web technologies. Clean code, functionality, and sustainability are among my top priorities. I aim to create value in the digital world through simplicity, consistency, and continuous growth. Actively seeking opportunities to leverage my skills in **Web development** to create impactful digital solutions.
 
 * 🌍  I'm based in Ankara, TR
 
