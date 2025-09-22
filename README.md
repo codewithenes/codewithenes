@@ -7,7 +7,7 @@ I actively take part in web development projects, contributing to both front-end
 
 * 🌍  I'm based in Ankara, TR
 
-* ✉️  You can contact me at [eneszkan11@gmail.com](mailto:eneszkan11@gmail.com)
+* ✉️  You can contact me at [hi@enozkn.com](mailto:hi@enozkn.com)
 * 🧠  I'm currently work on AI-powered Shopify tool named GUIDE.
 
 
