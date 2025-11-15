@@ -1,15 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Enes Özkan
 ==================================================================================================================================
 
-Developer
------------------
-I actively take part in web development projects, contributing to both front-end and back-end tasks to deliver end-to-end solutions. I have experience with software development methodologies such as Agile and Waterfall. Additionally, I possess academic knowledge in multi-criteria decision-making techniques (e.g., TOPSIS, Entropy). I am a developer who is open to teamwork, eager to learn, and focused on problem-solving.
-
-* 🌍  I'm based in Ankara, TR
+* I'm a software developer based in Ankara, Turkey
 
 * ✉️  You can contact me at [hi@enozkn.com](mailto:hi@enozkn.com)
 * 🧠  I'm currently work on AI-powered Shopify tool named GUIDE.
-
 
 
 ### Socials
