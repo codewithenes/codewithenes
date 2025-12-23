@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Enes Özkan
 ==================================================================================================================================
 
-* I'm a software developer based in Ankara, Turkey
+* I'm a Full Stack Developer based in Ankara, Turkey
 
 * ✉️  You can contact me at [hi@enozkn.com](mailto:hi@enozkn.com)
 * 🧠  I'm currently work on Shopify tool named GUIDE.
