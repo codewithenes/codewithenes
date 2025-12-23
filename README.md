@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * I'm a software developer based in Ankara, Turkey
 
 * ✉️  You can contact me at [hi@enozkn.com](mailto:hi@enozkn.com)
-* 🧠  I'm currently work on AI-powered Shopify tool named GUIDE.
+* 🧠  I'm currently work on Shopify tool named GUIDE.
 
 
 ### Socials
